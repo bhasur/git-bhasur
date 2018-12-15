@@ -1,2 +1,2 @@
 # git-bhasur
-first to done
+ This is for tutorial purpose
